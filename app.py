@@ -19,13 +19,14 @@ app.layout = html.Div(
 
     children=[
 
-        html.H1(
-            "Pink Morsel Sales Dashboard",
-            style={
-                "textAlign": "center",
-                "color": "#2C3E50"
-            }
-        ),
+ html.H1(
+    "Pink Morsel Sales Dashboard",
+    id="header",
+    style={
+        "textAlign": "center",
+        "color": "#2C3E50"
+    }
+),
 
         dcc.RadioItems(
             id="region-filter",
