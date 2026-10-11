@@ -99,7 +99,8 @@ Completed as part of the Quantium Software Engineering Job Simulation offered th
 
 ## Certificate
 
-I successfully completed the **Quantium Software Engineering Job Simulation** through Forage in July 2026.
+Successfully completed the Quantium Software Engineering Job Simulation through Forage in July 2026.
 
-[View Certificate (PDF)](Forage-Quantium-Certificate.pdf)
+[View My Certificate](<./forage%20certificate.pdf>)
+
 
