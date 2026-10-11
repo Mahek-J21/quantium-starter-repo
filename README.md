@@ -96,3 +96,10 @@ Open the local URL displayed in the terminal to view the dashboard.
 ## Acknowledgement
 
 Completed as part of the Quantium Software Engineering Job Simulation offered through Forage, using the provided starter repository.
+
+## Certificate
+
+I successfully completed the **Quantium Software Engineering Job Simulation** through Forage in July 2026.
+
+[View Certificate (PDF)](Forage-Quantium-Certificate.pdf)
+
